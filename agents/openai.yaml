@@ -1,0 +1,4 @@
+interface:
+  display_name: "多 Agent 持续协作"
+  short_description: "按核心管理、需求管理、开发和监督分工，维护任务、通信与会话接力"
+  default_prompt: "使用 $multi-agent-collaboration，按当前角色和项目规则推进已授权任务，维护精简状态并处理必要接力。"
